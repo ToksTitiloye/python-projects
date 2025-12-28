@@ -1,14 +1,12 @@
-lessonNumber = 4
-print(lessonNumber)
-lessonNumber = 5
-print(lessonNumber)
-#  5 + 1
-#  6
-lessonNumber = lessonNumber + 1
-print(lessonNumber)
-lessonNumber += 1
-print(lessonNumber)
+myName ="Toks"
+myName = "Joe"
+myName = myName + " " + "Toks"
+print(myName)
+myName += " Kevin"
+print(myName)
+myName += " Terry"
+print(myName)
 
-print(10 % 3)
-print(10 % 2)
-print (11 % 2)
+x = "z"
+print(x)
+print(x*1000)
